@@ -1,0 +1,7 @@
+__pycache__/
+
+*.env
+*.json
+
+!.template.json
+!square_letters.json

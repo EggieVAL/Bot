@@ -1,0 +1,35 @@
+{
+    "userid": "BOTTLE",
+    "stats": {
+        "Standard": {
+            "wins": 0,
+            "losses": 0,
+            "forfeits": 0,
+            "gray_tiles": 0,
+            "yellow_tiles": 0,
+            "green_tiles": 0,
+            "fastest_guess": -1,
+            "total_guesses": 0
+        },
+        "Daily": {
+            "wins": 0,
+            "losses": 0,
+            "forfeits": 0,
+            "gray_tiles": 0,
+            "yellow_tiles": 0,
+            "green_tiles": 0,
+            "fastest_guess": -1,
+            "total_guesses": 0
+        },
+        "Feudle": {
+            "wins": 0,
+            "losses": 0,
+            "forfeits": 0,
+            "gray_tiles": 0,
+            "yellow_tiles": 0,
+            "green_tiles": 0,
+            "fastest_guess": -1,
+            "total_guesses": 0
+        }
+    }
+}
